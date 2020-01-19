@@ -64,6 +64,7 @@
 
 #define MY_GATEWAY_ESP8266
 
+// Copy the sample file and set the secrets
 #include "secrets.h"
 
 // Enable UDP communication
